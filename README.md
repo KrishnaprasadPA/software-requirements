@@ -3,7 +3,6 @@
 **EffortLogger V2.0**
 
 This is an upgrade on the already existing EffortLogger Application modelled and developed by Prof.Lynn Robert Carter of ASU for a client. The current tool tracks the effort and defect logs of the employees of the client's company. The new EffortLogger should focus on providing Privacy, Security and Support for Enterprise-Scaled Agile. The documents have been developed in phases and the final document has all the details required by a Software Engineer to develop the application.
------------------------------------------------------------------------------------------------------------------
 
 **Planning Poker Tool**
 
